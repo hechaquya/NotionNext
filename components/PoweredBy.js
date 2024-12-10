@@ -12,7 +12,7 @@ export default function PoweredBy(props) {
       <a
         href='https://zhaolaoshi.fun'
         className='underline justify-start'>
-        数学培优只有一条路：提高效率；提高效率只有一条路：掌握方法 {siteConfig('VERSION')}
+        数学培优只有一条路：提高效率；提高效率只有一条路：掌握方法
       </a>
       .
     </div>
