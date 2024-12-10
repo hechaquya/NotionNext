@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享数学',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'ZHAOLAOSHI.FUN',
-  HEO_HERO_TITLE_4: 'Buff加成',
+  HEO_HERO_TITLE_4: '🌟🌟Buff加成',
   HEO_HERO_TITLE_5: '小叮当的记忆面包',
   HEO_HERO_TITLE_LINK: 'https://zhaolaoshi.fun/article/158d7c25-7723-8000-8104-f63a2689bd85',//后期这里可以改成跳转到anki的文章
   // 英雄区遮罩文字
