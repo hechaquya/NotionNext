@@ -8,11 +8,11 @@ export default function PoweredBy(props) {
   return (
     <div
       className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
-      <span>Powered by</span>
+      <span></span>
       <a
-        href='https://github.com/tangly1024/NotionNext'
+        href='https://zhaolaoshi.fun'
         className='underline justify-start'>
-        NotionNext {siteConfig('VERSION')}
+        数学培优只有一条路：提高效率；提高效率只有一条路：掌握方法 {siteConfig('VERSION')}
       </a>
       .
     </div>
