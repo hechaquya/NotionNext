@@ -5,16 +5,16 @@ import { siteConfig } from '@/lib/config'
  * @returns
  */
 export default function PoweredBy(props) {
-  // return (
-  //   <div
-  //     className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
-  //     <span>Powered by</span>
-  //     <a
-  //       href='https://github.com/tangly1024/NotionNext'
-  //       className='underline justify-start'>
-  //       NotionNext {siteConfig('VERSION')}
-  //     </a>
-  //     .
-  //   </div>
+  return (
+    <div
+      className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
+      <span>数学学习只有一条路：提高效率；提高效率只有一条路：掌握好的方法</span>
+      <a
+        href='https:// '
+        className='underline justify-start'>
+        NotionNext {siteConfig('VERSION')}
+      </a>
+      .
+    </div>
   )
 }
